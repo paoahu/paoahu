@@ -45,7 +45,9 @@ const anna = {
 <td width="50%" align="center">
 
 
-   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=paoahu&hide=TeX,HTML&theme=gruvbox">
+  
+   
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=paoahu&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
   </td>
 </tr>
