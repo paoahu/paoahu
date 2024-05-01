@@ -51,6 +51,12 @@ const anna = {
 </table>
 <!--- stats (end) -->
 
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=paoahu&bg_color=282828&color=d8a657&line=fabd2f&point=fe8019&area=true&hide_border=false" border-radius="15">
+
+</div>
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
