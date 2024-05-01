@@ -33,24 +33,22 @@ const anna = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <p align="center">
   <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=paoahu&theme=gruvbox&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=paoahu&theme=gruvboxx&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-
-  
-   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=paoahu&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-  
-  </td>
-</tr>
+<table>
+  <tr>
+    <!-- Primera columna para las estadísticas generales y las rachas -->
+    <td width="50%" align="center">
+      <!-- Estadísticas generales de GitHub -->
+      <img src="https://github-readme-stats.vercel.app/api?username=paoahu&theme=gruvbox&show_icons=true&count_private=true" />
+      <br></br>
+      <!-- Estadísticas de rachas en GitHub -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=paoahu&theme=gruvbox&hide_border=false" />
+    </td>
+    <!-- Segunda columna para los lenguajes más usados, usando la imagen de anuraghazra1 -->
+    <td width="50%" align="center">
+      <!-- Tarjeta de los lenguajes más usados personalizada -->
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paoahu&theme=gruvbox&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+    </td>
+  </tr>
 </table>
 <!--- stats (end) -->
 
