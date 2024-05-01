@@ -11,7 +11,6 @@ const anna = {
     technologies: {
       
         frontEnd: {
-            js: ["Next", "Nuxt"],
             css: ["tailwind"]
         },
         backEnd: {
