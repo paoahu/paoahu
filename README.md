@@ -7,7 +7,7 @@
 ```javascript
 const anna = {
     code: ["Javascript", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev", "script writing"],
+    askMeAbout: ["web dev", "tech", "app dev", "script writting"],
     technologies: {
       
         frontEnd: {
