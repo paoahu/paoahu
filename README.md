@@ -42,6 +42,7 @@ const anna = {
       <!-- Estadísticas de rachas en GitHub -->
       <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com/?user=paoahu&theme=gruvbox" alt="GitHub Streak" />
+              [![GitHub Streak](https://streak-stats.demolab.com/?user=paoahu)](https://git.io/streak-stats)
       </a>
     </td>
     <!-- Segunda columna para los lenguajes más usados -->
