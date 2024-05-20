@@ -41,7 +41,7 @@ const anna = {
       <br></br>
       <!-- Estadísticas de rachas en GitHub -->
     
-     
+        [![GitHub Streak](https://streak-stats.demolab.com/?user=paoahu)](https://git.io/streak-stats)
 
     </td>
     <!-- Segunda columna para los lenguajes más usados -->
