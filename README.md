@@ -41,10 +41,10 @@ const anna = {
       <br></br>
       <!-- Estadísticas de rachas en GitHub -->
     
-        [![GitHub Streak](https://streak-stats.demolab.com/?user=paoahu)](https://git.io/streak-stats)
+     
 
     </td>
-    <!-- Segunda columna para los lenguajes más usados, usando la imagen de anuraghazra1 -->
+    <!-- Segunda columna para los lenguajes más usados -->
     <td width="50%" align="center">
       <!-- Tarjeta de los lenguajes más usados personalizada -->
       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paoahu&theme=gruvbox&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
