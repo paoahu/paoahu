@@ -31,23 +31,23 @@ const anna = {
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <p align="center">
-  <!--- stats (start) -->
+<!--- stats (start) -->
 <table>
   <tr>
     <!-- Primera columna para las estadísticas generales y las rachas -->
     <td width="50%" align="center">
       <!-- Estadísticas generales de GitHub -->
-      <img src="https://github-readme-stats.vercel.app/api?username=paoahu&theme=gruvbox&show_icons=true&count_private=true" />
-      <br></br>
+      <img src="https://github-readme-stats.vercel.app/api?username=paoahu&theme=gruvbox&show_icons=true&count_private=true" alt="GitHub Stats" />
+      <br><br>
       <!-- Estadísticas de rachas en GitHub -->
-    
-        [![GitHub Streak](https://streak-stats.demolab.com/?user=paoahu)](https://git.io/streak-stats)
-
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=paoahu&theme=gruvbox" alt="GitHub Streak" />
+      </a>
     </td>
     <!-- Segunda columna para los lenguajes más usados -->
     <td width="50%" align="center">
       <!-- Tarjeta de los lenguajes más usados personalizada -->
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paoahu&theme=gruvbox&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paoahu&theme=gruvbox&hide_border=true&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages"/>
     </td>
   </tr>
 </table>
