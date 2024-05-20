@@ -41,6 +41,8 @@ const anna = {
       <br></br>
       <!-- Estadísticas de rachas en GitHub -->
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=paoahu&theme=gruvbox&hide_border=false" />
+        [![GitHub Streak](https://streak-stats.demolab.com/?user=paoahu)](https://git.io/streak-stats)
+
     </td>
     <!-- Segunda columna para los lenguajes más usados, usando la imagen de anuraghazra1 -->
     <td width="50%" align="center">
