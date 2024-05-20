@@ -40,7 +40,7 @@ const anna = {
       <img src="https://github-readme-stats.vercel.app/api?username=paoahu&theme=gruvbox&show_icons=true&count_private=true" />
       <br></br>
       <!-- Estadísticas de rachas en GitHub -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=paoahu&theme=gruvbox&hide_border=false" />
+    
         [![GitHub Streak](https://streak-stats.demolab.com/?user=paoahu)](https://git.io/streak-stats)
 
     </td>
@@ -52,6 +52,8 @@ const anna = {
   </tr>
 </table>
 <!--- stats (end) -->
+
+ <!--- [ <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=paoahu&theme=gruvbox&hide_border=false" />](url) -->
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
