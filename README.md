@@ -31,7 +31,7 @@ const anna = {
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <p align="center">
-<!--- stats (start) -->
+<!--- stats (starts here) -->
 <table>
   <tr>
     <!-- Primera columna para las estadísticas generales y las rachas -->
