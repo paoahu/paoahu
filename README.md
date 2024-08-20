@@ -24,7 +24,7 @@ const anna = {
         misc: ["Figma", "Draw.io"]
     },
 
-    currentProject: "I am currently developing an app to control an Arduino device, and collaborating with EasyCoders on multiple projects",
+    currentProject: "I am currently developing an app to control an Arduino device, and collaborating with EasyCoders on multiple projects (FrigoApp)",
     funFact: "It’s all 0’s and 1’s"
 };
 ```
