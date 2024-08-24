@@ -11,7 +11,8 @@ const anna = {
     technologies: {
       
         frontEnd: {
-            css: ["tailwind"]
+            css: ["tailwind"],
+            js: ["react", "react native"]
         },
         backEnd: {
             js: ["node", "express"]
