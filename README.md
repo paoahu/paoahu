@@ -27,7 +27,7 @@ const anna = {
 
     currentProject: "I am currently developing an app to control an Arduino device, and collaborating with EasyCoders on multiple projects (FrigoApp)",
     funFact: "It’s all 0’s and 1’s"
-};
+}
 ```
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
