@@ -21,7 +21,7 @@ const anna = {
        testing: {
             ["Mocha", "Chai", "Jest"]
         },
-        databases: ["mongo", "MongoDB Atlas"],
+        databases: ["mongo", "MongoDB Atlas", "SQL"],
         misc: ["Figma", "Draw.io"]
     },
 
