@@ -19,9 +19,11 @@
 </div>
 
 ```bash
-whoami
+cat /etc/anna_profile.conf
 ```
-> **Anna (`paoahu`)** — Apasionada por la ciberseguridad defensiva y ofensiva. Dejé las líneas de código frontend/backend tradicionales para centrarme en el análisis de vulnerabilidades, auditorías de seguridad y hacking ético.
+> **Anna (`paoahu`)** — **Red Team & Offensive Security Enthusiast.**
+> 
+> *Ever since I was a kid playing hacker, I knew this was my path—and I'm still playing the same game today, just with better tools.* Currently finishing my Computer Science Engineering degree while actively training in penetration testing, active directory exploitation, and offensive security.
 
 ---
 
