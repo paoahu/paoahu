@@ -29,7 +29,7 @@ cat /etc/anna_profile.conf
 
 ```sql
 -- Executing dump query on target database: db_paoahu...
-SELECT category, technologies_or_details FROM operator_skills;
+SELECT category, technologies_or_details FROM anna_skills;
 ```
 
 ```sql
