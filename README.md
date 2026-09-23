@@ -6,14 +6,7 @@
 
 <div align="center">
 
-```text
-  █████╗ ███╗   ██╗███╗   ██╗██████╗ 
- ██╔══██╗████╗  ██║████╗  ██║██╔══██╗
- ███████║██╔██╗ ██║██╔██╗ ██║███████║
- ██╔══██║██║╚██╗██║██║╚██╗██║██╔══██║
- ██║  ██║██║ ╚████║██║ ╚████║██║  ██║
- ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚═╝  ╚═╝
-```
+
 
 ### `[+] Junior Ethical Hacker & Pentester`
 
@@ -32,29 +25,25 @@ whoami
 
 ---
 
-```json
-{
-  "certifications": [
-    "eJPT (eLearnSecurity Junior Penetration Tester)"
-  ],
-  "current_focus": [
-    "Pwning VulNyx & HackTheBox machines",
-    "Active Directory Attacks & Privilege Escalation",
-    "Writing detailed Writeups & Documentation"
-  ],
-  "skills": {
-    "network_recon": ["Nmap", "Masscan", "Wireshark"],
-    "web_exploitation": ["Burp Suite", "SQLMap", "Gobuster/FFUF", "OWASP Top 10"],
-    "privilege_escalation": ["LinPEAS", "WinPEAS", "Sudo Exploitation", "GTFOBins"],
-    "scripting_programming": ["Python", "Bash", "JavaScript", "Java", "SQL"],
-    "os_environments": ["Kali Linux", "Parrot OS", "Linux (Debian/Arch)", "Windows Active Directory"]
-  },
-  "platforms": {
-    "vulnyx": "Active Player",
-    "hackthebox": "Practicing",
-    "tryhackme": "Practicing"
-  }
-}
+```sql
+-- Executing dump query on target database: db_paoahu...
+SELECT category, technologies_or_details FROM operator_skills;
+```
+
+```sql
++-----------------------+-------------------------------------------------------------------------+
+| CATEGORY              | TECHNOLOGIES_OR_DETAILS                                                 |
++-----------------------+-------------------------------------------------------------------------+
+| Certifications        | eJPT (eLearnSecurity Junior Penetration Tester)                         |
+| Current Focus         | VulNyx & HTB Machines | Active Directory | Privilege Escalation         |
+| Network Recon         | Nmap, Masscan, Wireshark, Netcat                                        |
+| Web Exploitation      | Burp Suite, SQLMap, Gobuster, FFUF, OWASP Top 10                        |
+| Privilege Escalation  | LinPEAS, WinPEAS, Sudo Exploitation, GTFOBins                           |
+| Scripting & Languages | Python, Bash, JavaScript, Java, SQL                                     |
+| OS Environments       | Kali Linux, Parrot OS, Linux (Debian/Arch), Windows Active Directory    |
+| Platforms Status      | VulNyx (Active) | HackTheBox (Practicing) | TryHackMe (Practicing)      |
++-----------------------+-------------------------------------------------------------------------+
+8 rows in set (0.002 sec)
 ```
 
 ---
