@@ -68,15 +68,7 @@ cat ~/stats_and_metrics.txt
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paoahu&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paoahu&theme=synthwave&hide_border=true" alt="GitHub Streak" />
-</div>
 
----
-
-<div align="center">
 
 `$ echo "Feel free to connect or check my latest writeups!"`
 
